@@ -3,6 +3,8 @@
 
 ![Project Snapshot](https://github.com/virajbhutada/HR-Analytics-PowerBI/assets/143819712/1cedd626-a765-4bc2-a861-b82dc1bb7f32)
 
+---
+
 ## Overview
 
 Transform your HR strategy with our advanced Power BI dashboard, meticulously crafted for HR analytics. Gain profound insights into workforce dynamics, employee performance, and key HR metrics. Elevate decision-making and strategic planning through tailored visualizations, empowering human resources professionals with the tools they need for informed and impactful organizational management.
@@ -20,16 +22,6 @@ Transform your HR strategy with our advanced Power BI dashboard, meticulously cr
 | Average Age, Salary, and Years of Service | Average values for age, salary, and years of service. |
 
 ### Key Features
-
-| Feature                                   | Description                                               |
-|-------------------------------------------|-----------------------------------------------------------|
-| **Dynamic Slices**                        | Granular workforce metrics across departments | (Human Resources, Research and Development, Sales).|
-| **Interactive Charts**                    | • Attrition Analysis <br> • Gender Distribution          |
-| **Education Field Analysis**              | Explore attrition trends based on educational backgrounds. |
-| **Age Group Analysis**                    | Uncover insights into age-related attrition patterns.     |
-| **Salary Slab Analysis**                  | Correlate salary levels with employee turnover.           |
-| **Data-Backed Recommendations**           | Empower HR decision-makers with actionable insights.      |
-
 | Feature                                   | Description                                               |
 |-------------------------------------------|-----------------------------------------------------------|
 | **Dynamic Slices**                        | Granular workforce metrics across departments <br> (Human Resources, Research and Development, Sales). |

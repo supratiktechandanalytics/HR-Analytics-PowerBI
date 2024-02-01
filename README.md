@@ -19,30 +19,26 @@ Transform your HR strategy with our advanced Power BI dashboard, meticulously cr
 | Attrition and Attrition Rate| Measure of employee turnover and its percentage.  |
 | Average Age, Salary, and Years of Service | Average values for age, salary, and years of service. |
 
-### Dynamic Slices
+### Key Features
 
-- Granular workforce metrics across departments (Human Resources, Research and Development, Sales).
+| Feature                                   | Description                                               |
+|-------------------------------------------|-----------------------------------------------------------|
+| **Dynamic Slices**                        | Granular workforce metrics across departments | (Human Resources, Research and Development, Sales).|
+| **Interactive Charts**                    | • Attrition Analysis <br> • Gender Distribution          |
+| **Education Field Analysis**              | Explore attrition trends based on educational backgrounds. |
+| **Age Group Analysis**                    | Uncover insights into age-related attrition patterns.     |
+| **Salary Slab Analysis**                  | Correlate salary levels with employee turnover.           |
+| **Data-Backed Recommendations**           | Empower HR decision-makers with actionable insights.      |
 
-### Interactive Charts
+| Feature                                   | Description                                               |
+|-------------------------------------------|-----------------------------------------------------------|
+| **Dynamic Slices**                        | Granular workforce metrics across departments <br> (Human Resources, Research and Development, Sales). |
+| **Interactive Charts**                    |  • Attrition Analysis <br> • Gender Distribution           |
+| **Education Field Analysis**              | Explore attrition trends based on educational backgrounds. |
+| **Age Group Analysis**                    | Uncover insights into age-related attrition patterns.     |
+| **Salary Slab Analysis**                  | Correlate salary levels with employee turnover.           |
+| **Data-Backed Recommendations**           | Empower HR decision-makers with actionable insights.      |
 
-- Attrition Analysis
-- Gender Distribution
-
-### Education Field Analysis
-
-- Explore attrition trends based on educational backgrounds.
-
-### Age Group Analysis
-
-- Uncover insights into age-related attrition patterns.
-
-### Salary Slab Analysis
-
-- Correlate salary levels with employee turnover.
-
-### Data-Backed Recommendations
-
-- Empower HR decision-makers with actionable insights.
 
 ---
 

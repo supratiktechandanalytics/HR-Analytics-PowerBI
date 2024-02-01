@@ -69,11 +69,13 @@ Transform your HR strategy with our advanced Power BI dashboard, meticulously cr
 
 ## Collaboration and Feedback
 
-I've developed this project independently. If you have suggestions, improvements, or would like to contribute, please create an issue or pull request. Your input is valuable in enhancing the effectiveness of HR analytics.
+I've developed this project independently. If you have suggestions, improvements, or would like to contribute, please create an [issue](https://github.com/virajbhutada/HR-Analytics-PowerBI/issues) or [pull request](https://github.com/virajbhutada/HR-Analytics-PowerBI/pulls). Your input is valuable in enhancing the effectiveness of HR analytics.
 
 ## LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/virajnbhutada24)
 
 ## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 

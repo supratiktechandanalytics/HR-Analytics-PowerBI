@@ -7,6 +7,8 @@
 
 Transform your HR strategy with our advanced Power BI dashboard, meticulously crafted for HR analytics. Gain profound insights into workforce dynamics, employee performance, and key HR metrics. Elevate decision-making and strategic planning through tailored visualizations, empowering human resources professionals with the tools they need for informed and impactful organizational management.
 
+---
+
 ## Key Features
 
 ### KPIs Overview
@@ -42,6 +44,8 @@ Transform your HR strategy with our advanced Power BI dashboard, meticulously cr
 
 - Empower HR decision-makers with actionable insights.
 
+---
+
 ## Getting Started
 
 1. Clone the repository:
@@ -56,6 +60,8 @@ Transform your HR strategy with our advanced Power BI dashboard, meticulously cr
 3. Explore the Dashboard:
    - Navigate through various tabs to explore different aspects of HR analytics.
 
+---
+
 ## Project Structure
 
 - **/assets:**
@@ -67,15 +73,20 @@ Transform your HR strategy with our advanced Power BI dashboard, meticulously cr
 - **/src:**
   - Power BI project files.
 
+---
+
 ## Collaboration and Feedback
 
-I've developed this project independently. If you have suggestions, improvements, or would like to contribute, please create an [issue](https://github.com/virajbhutada/HR-Analytics-PowerBI/issues) or [pull request](https://github.com/virajbhutada/HR-Analytics-PowerBI/pulls). Your input is valuable in enhancing the effectiveness of HR analytics.
+If you have suggestions, improvements, or would like to contribute, please create an [issue](https://github.com/virajbhutada/HR-Analytics-PowerBI/issues) or [pull request](https://github.com/virajbhutada/HR-Analytics-PowerBI/pulls). Your input is valuable in enhancing the effectiveness of HR analytics.
+
+--- 
 
 ## LinkedIn
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/virajnbhutada24)
 
+--- 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](https://github.com/virajbhutada/HR-Analytics-PowerBI/blob/main/LICENSE) - see the LICENSE file for details.
 

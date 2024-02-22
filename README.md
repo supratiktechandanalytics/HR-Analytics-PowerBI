@@ -11,9 +11,7 @@ Transform your HR strategy with our advanced Power BI dashboard, meticulously cr
 
 ---
 
-## Key Features
-
-### KPIs Overview
+## KPIs Overview
 
 | KPI                        | Description                                       |
 |-----------------------------|---------------------------------------------------|
@@ -21,7 +19,8 @@ Transform your HR strategy with our advanced Power BI dashboard, meticulously cr
 | Attrition and Attrition Rate| Measure of employee turnover and its percentage.  |
 | Average Age, Salary, and Years of Service | Average values for age, salary, and years of service. |
 
-### Key Features
+## Key Features
+
 | Feature                                   | Description                                               |
 |-------------------------------------------|-----------------------------------------------------------|
 | **Dynamic Slices**                        | Granular workforce metrics across departments <br> (Human Resources, Research and Development, Sales). |

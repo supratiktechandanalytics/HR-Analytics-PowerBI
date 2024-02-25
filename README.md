@@ -1,7 +1,13 @@
 # [HR-Analytics-PowerBI](https://www.linkedin.com/in/virajnbhutada24/)
 
-![Screenshot 2024-02-22 192847](https://github.com/virajbhutada/HR-Analytics-PowerBI/assets/143819712/bfdefdc7-4a7e-4290-9709-9b4c5ecec2ae)![Screenshot 2024-02-22 192906](https://github.com/virajbhutada/HR-Analytics-PowerBI/assets/143819712/b34d77e1-46f0-4ace-b1bc-d2c93b5132b3)
+---
 
+<table>
+    <tr>
+        <td><img src="https://github.com/virajbhutada/HR-Analytics-PowerBI/assets/143819712/bfdefdc7-4a7e-4290-9709-9b4c5ecec2ae" alt="Screenshot 1"></td>
+        <td><img src="https://github.com/virajbhutada/HR-Analytics-PowerBI/assets/143819712/b34d77e1-46f0-4ace-b1bc-d2c93b5132b3" alt="Screenshot 2"></td>
+    </tr>
+</table>
 
 ---
 
